@@ -1,6 +1,6 @@
 # teste
 
-```python
+```py
 import subprocess
 
 def executar_comando(comando):
