@@ -1,5 +1,6 @@
 # teste
 
-´´´bash
-   teste
-´´´
+```bash
+teste
+```
+
